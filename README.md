@@ -25,6 +25,5 @@
 ---
 
 ## 📈 GitHub Stats
-![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyakandregula&show_icons=true&theme=default)
-
+![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyakandregula&show_icons=true&theme=tokyonight&hide_border=true)
 
