@@ -16,13 +16,11 @@
 ---
 
 ## 📂 Featured Projects
-
 | Project | Tool | Description |
 |--------|------|-------------|
-| 🔵 Employee Attrition Dashboard | Power BI | Analysed attrition trends across job roles, age & salary |
-
+| 🔵 [Employee Attrition Dashboard](https://github.com/navyakandregula/employee-attrition-dashboard) | Power BI | Analysed attrition trends across job roles, age & salary |
+| ⚡ [Electric Vehicle Data Analysis](https://github.com/navyakandregula/electric-vehicle-data-analysis) | Tableau | Analysed 150K+ EVs across the US — adoption trends, manufacturer insights & CAFV eligibility |
 ---
 
-## 📈 GitHub Stats
-![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navyakandregula&show_icons=true&theme=tokyonight&hide_border=true)
+
 
