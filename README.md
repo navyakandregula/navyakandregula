@@ -20,7 +20,6 @@
 | Project | Tool | Description |
 |--------|------|-------------|
 | 🔵 Employee Attrition Dashboard | Power BI | Analysed attrition trends across job roles, age & salary |
-| 🟠 Sales & Profit Analysis | Tableau | Regional sales performance & profitability dashboard |
 
 ---
 
