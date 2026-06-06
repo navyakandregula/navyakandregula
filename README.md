@@ -20,7 +20,7 @@
 |--------|------|-------------|
 | 🔵 [Employee Attrition Dashboard](https://github.com/navyakandregula/employee-attrition-dashboard) | Power BI | Analysed attrition trends across job roles, age & salary |
 | ⚡ [Electric Vehicle Data Analysis](https://github.com/navyakandregula/electric-vehicle-data-analysis) | Tableau | Analysed 150K+ EVs across the US — adoption trends, manufacturer insights & CAFV eligibility |
-| 🛒 [E-Commerce Sales Dashboard](https://github.com/navyakandregula/ecommerce-sales-performance-dashboard) | Power BI | Analysed 2.30M sales across products, regions & categories with profit insights |
+| 🛒 [E-Commerce Sales Dashboard](https://github.com/navyakandregula/Ecommerce-Sales-Performance-Dashboard) | Power BI | Analysed 2.30M sales across products, regions & categories with profit insights |
 ---
 
 
